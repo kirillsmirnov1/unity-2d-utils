@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8019758503034697433}
   - component: {fileID: 8019758503034697434}
   m_Layer: 9
-  m_Name: Screen Edge
+  m_Name: ScreenEdge
   m_TagString: Edge
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
